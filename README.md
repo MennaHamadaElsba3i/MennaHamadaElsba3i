@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Menna Elsba3i</h1>
 <h3 align="center">A passionate about growing in Front-End development from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="[C:\Users\ag\Desktop\kitty.jpg](https://i.pinimg.com/736x/58/a8/3b/58a83bc3a1467763d35ccff5dee47498.jpg)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/58/a8/3b/58a83bc3a1467763d35ccff5dee47498.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MennaHamadaElsba3i&label=Profile%20views&color=0e75b6&style=flat" alt="MennaHamadaElsba3i" /> </p>
 
