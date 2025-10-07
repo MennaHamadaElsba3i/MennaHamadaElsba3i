@@ -1,8 +1,9 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Menna+Elsba3i+👩‍💻;Front-End+Developer+from+Egypt+🇪🇬;Currently+learning+React+⚛️)](https://git.io/typing-svg)
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=B799FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Menna+Hamada+Elsbaei;Front-End+Developer;Currently+learning+React)](https://git.io/typing-svg)
+
 </div>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/58/a8/3b/58a83bc3a1467763d35ccff5dee47498.jpg">
