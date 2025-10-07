@@ -18,6 +18,10 @@
 <a href="https://linkedin.com/in/menna elsba3i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="menna elsba3i" height="30" width="40" /></a>
 <a href="https://fb.com/menna hamada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="menna hamada" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mennahamadaelsba3i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mennahamadaelsba3i" height="30" width="40" /></a>
+<a href="https://discord.com/users/1167116304688369746" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="menna elsba3i discord" height="30" width="40" />
+</a>
+
 
 
 </p>
