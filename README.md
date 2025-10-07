@@ -1,11 +1,5 @@
-<h1 align="center">
-  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="35px" />
-  Hi, I'm <span style="color:#00bfff;">Menna Hamada Elsbaei</span> 
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Menna+Hamada+Elsbaei;Front-End+Developer;Currently+learning+React+⚛️)](https://git.io/typing-svg)
 
-<h3 align="center">
-  Front-End Developer | Currently learning <span style="color:#61dafb;">React</span> ⚛️
-</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/58/a8/3b/58a83bc3a1467763d35ccff5dee47498.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MennaHamadaElsba3i&label=Profile%20views&color=0e75b6&style=flat" alt="MennaHamadaElsba3i" /> </p>
