@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mennaelsba3i" target="blank"><img src="https://img.shields.io/twitter/follow/mennaelsba3i?logo=twitter&style=for-the-badge" alt="mennaelsba3i" /></a> </p>
 
-- 🌱 I’m currently learning **SASS**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **elsbaayemenna@gmail.com**
 
