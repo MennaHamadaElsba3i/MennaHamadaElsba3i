@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFC0CB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Menna+Hamada+Elsbaei;Front-End+Developer;Currently+learning+React.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFC0CB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Menna+Hamada+Elsbaei;Front-End+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/mennaelsba3i" target="blank"><img src="https://img.shields.io/twitter/follow/mennaelsba3i?logo=twitter&style=for-the-badge" alt="mennaelsba3i" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
 - 📫 How to reach me **elsbaayemenna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
